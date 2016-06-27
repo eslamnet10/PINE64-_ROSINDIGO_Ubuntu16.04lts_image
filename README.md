@@ -7,3 +7,6 @@ you can download it from this link
 https://drive.google.com/file/d/0B6XF6lUahohnME9oaTRTdmNBdXc/view?usp=sharing
 username ubuntu
 password ubuntu
+i build rospackage on ubuntu 16.04 lts fFrom source 
+the arch is arm 
+and i use swap area to increase the Ram
